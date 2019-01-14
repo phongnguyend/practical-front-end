@@ -1,0 +1,23 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "Webpack demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "Joe Eames",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "~2.3.1",
+    "express": "~4.12.4",
+    "morgan": "~1.5.3"
+  },
+  "devDependencies": {
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.10.0",
+    "css-loader": "^0.14.5",
+    "style-loader": "^0.12.3",
+    "webpack-dev-middleware": "^1.2.0"
+  }
+}
