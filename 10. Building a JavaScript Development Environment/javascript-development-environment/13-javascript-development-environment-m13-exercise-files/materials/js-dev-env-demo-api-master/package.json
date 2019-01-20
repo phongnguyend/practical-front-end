@@ -1,0 +1,22 @@
+{
+  "name": "node-api-example",
+  "version": "1.0.0",
+  "description": "A simple API built in Node and Express hosted on Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "2.8.1",
+    "express": "4.13.3"
+  },
+  "engines": {
+    "node": "5.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coryhouse/js-dev-env-demo-api"
+  },
+  "author": "Cory House",
+  "license": "MIT"
+}
