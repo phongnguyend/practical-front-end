@@ -14,6 +14,7 @@
 /*
 .eslintrc.json
 */
+
 {
   "root": true,
   "extends": [
@@ -34,6 +35,7 @@
     "no-console": 1
   }
 }
+
 /*
   0: off
   1: warn
