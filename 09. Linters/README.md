@@ -1,6 +1,6 @@
 [ESLint](https://eslint.org)
 
-### Editor Intergration
+### Editor Intergration:
 [Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ### Plugins:
