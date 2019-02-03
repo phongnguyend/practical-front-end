@@ -10,8 +10,8 @@
 [Rules for React](https://www.npmjs.com/package/eslint-plugin-react)
 
 ### Configuration:
-.eslintrc.json:
 ```js
+// .eslintrc.json
 {
   "root": true,
   "extends": [
