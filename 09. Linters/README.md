@@ -5,11 +5,12 @@
 [Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ### Plugins:
-[ESLint Plugin Angular](https://www.npmjs.com/package/eslint-plugin-angular)
+[Rules for AngularJs](https://www.npmjs.com/package/eslint-plugin-angular)
 
-[ESLint Plugin React](https://www.npmjs.com/package/eslint-plugin-react)
+[Rules for React](https://www.npmjs.com/package/eslint-plugin-react)
 
-### .eslintrc.json:
+### Configuration:
+.eslintrc.json:
 ```js
 {
   "root": true,
@@ -32,3 +33,9 @@
   }
 }
 ```
+```js
+0: off
+1: warn
+2: error
+```
+Refer: [Configuring ESLint](https://eslint.org/docs/2.0.0/user-guide/configuring)
