@@ -11,9 +11,9 @@
 
 ### Configuration:
 ```js
-/*
-.eslintrc.json
-*/
+//
+// .eslintrc.json
+//
 
 {
   "root": true,
@@ -36,10 +36,10 @@
   }
 }
 
-/*
-  0: off
-  1: warn
-  2: error
-*/
+//
+// 0: off
+// 1: warn
+// 2: error
+//
 ```
 Refer: [Configuring ESLint](https://eslint.org/docs/2.0.0/user-guide/configuring)
