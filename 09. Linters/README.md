@@ -8,6 +8,17 @@
 
 [Rules for React](https://www.npmjs.com/package/eslint-plugin-react)
 
+### Local Installation:
+```js
+npm install eslint --save-dev
+```
+### Global Installation:
+```js
+npm install -g eslint
+```
+
+Refer: [Getting Started](https://eslint.org/docs/user-guide/getting-started)
+
 ### Configuration:
 ```js
 //
