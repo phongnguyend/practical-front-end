@@ -1,4 +1,3 @@
-### ESLint
 [ESLint](https://eslint.org)
 
 ### Editor Intergration
