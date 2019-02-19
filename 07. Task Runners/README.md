@@ -3,7 +3,12 @@
 npm install gulp -g
 npm install gulp --save-dev
 ```
-
+### Install Babel:
+```js
+npm install @babel/core --save-dev
+npm install @babel/preset-env --save-dev
+npm install @babel/register --save-dev
+```
 ### Install Gulp plugins:
 ```js
 npm install gulp-babel --save-dev
