@@ -1,0 +1,19 @@
+<div class="row" *ngFor="let product of visibleProducts">
+  <div class="col-md-1">
+    <div *ngIf="auth.isAuthenticated()">
+      <upvote (vote)="toggleVote(product)" [count]="product.voters?.length" [voted]="userHasVoted(product)"></upvote>
+    </div>
+  </div>
+  <div class="col-md-10">
+    <collapsible-well [title]="product.name">
+      <div well-title>
+        {{product.name}}
+        <i *ngIf="product.voters?.length > 3" class="glyphicon glyphicon-fire" style="color:red"></i>
+      </div>
+      <div well-body>
+        <h6>{{product.code}}</h6>
+        <span>Quantity: {{product.quantity}}</span>
+      </div>
+    </collapsible-well>
+  </div>
+</div>

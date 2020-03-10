@@ -1,0 +1,44 @@
+<h1>New Store</h1>
+<hr>
+<div class="col-md-6">
+  <form #newStoreForm="ngForm" (ngSubmit)="saveStore(newStoreForm.value)" autocomplete="off" novalidate>
+    <div class="form-group" [ngClass]="{'error': newStoreForm.controls.name?.invalid && newStoreForm.controls.name?.touched}">
+      <label for="storeName">Store Name:</label>
+      <em *ngIf="newStoreForm.controls.name?.invalid && (newStoreForm.controls.name?.touched)">Required</em>
+      <input (ngModel)="newStore.name" name="name" required id="name" type="text" class="form-control" placeholder="Name of your Store..." />
+    </div>    
+    <div ngModelGroup="location" #locationGroup="ngModelGroup" validateLocation>
+      <div class="form-group">
+        <label for="street">Store Location:</label>
+        <em *ngIf="locationGroup?.invalid && locationGroup?.touched">You must enter either the full location OR an online Url</em>
+        <input (ngModel)="newStore.street" name="street" id="street" type="text" class="form-control" placeholder="Street of store..." />
+      </div>
+      <div class="row">
+        <div class="col-md-6">
+          <input (ngModel)="newStore.city" name="city" id="city" type="text" class="form-control" placeholder="City..." />
+        </div>
+        <div class="col-md-6" >
+          <input (ngModel)="newStore.zipCode" name="zipCode" id="zipCode" type="text" class="form-control" placeholder="Zip Code..." />
+        </div>
+      </div>
+    </div> 
+    <div>
+      <div class="row">
+        <div class="col-md-6">
+          <div class="form-group">
+            <label for="openedTime">Opened Time:</label>
+            <em *ngIf="newStoreForm.controls.openedTime?.invalid && (newStoreForm.controls.openedTime?.touched)">Required</em>
+            <input (ngModel)="newStore.openedTime" name="openedTime" id="openedTime" type="number" class="form-control" placeholder="Opened Time ..." />
+          </div></div>
+        <div class="col-md-6" >
+          <div class="form-group">
+            <label for="closedTime">Opened Time:</label>
+            <em *ngIf="newStoreForm.controls.closedTime?.invalid && (newStoreForm.controls.closedTime?.touched)">Required</em>
+            <input (ngModel)="newStore.closedTime" name="closedTime" id="closedTime" type="number" class="form-control" placeholder="Closed Time ..." />
+          </div></div>
+      </div>
+    </div>  
+    <button type="submit" [disabled]="newStoreForm.invalid" class="btn btn-primary">Save</button>
+    <button type="button" class="btn btn-default" (click)="cancel()">Cancel</button>
+  </form>
+</div>

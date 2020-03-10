@@ -1,0 +1,19 @@
+<div class="col-md-12">
+  <h3>Add Product into Store</h3>
+</div>
+<div class="col-md-6">
+  <form [formGroup]="newProductForm" (ngSubmit)="saveProduct(newProductForm.value)" autocomplete="off">
+    <div class="form-group" [ngClass]="{'error': code.invalid && code.dirty }">
+      <label for="code">Product Code:</label>
+      <em *ngIf="code.invalid && code.dirty">Required</em>
+      <input formControlName="code" id="code" type="text" class="form-control" placeholder="Code..." />
+    </div>
+    <div class="form-group" [ngClass]="{'error': quantity.invalid && quantity.dirty }">
+      <label for="quantity">Quantity:</label>
+      <em *ngIf="quantity.invalid && quantity.dirty">Required</em>
+      <input formControlName="quantity" id="quantity" type="number" class="form-control" placeholder="Quantity..." />
+    </div>
+    <button type="submit" [disabled]="newProductForm.invalid"  class="btn btn-primary">Save</button>
+    <button type="button" (click)="cancel()" class="btn btn-default">Cancel</button>
+  </form>
+</div>
