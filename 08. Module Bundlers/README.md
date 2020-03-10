@@ -1,2 +1,2 @@
-# practical-front-end
-practical front end
+# Webpack Fundamentals
+

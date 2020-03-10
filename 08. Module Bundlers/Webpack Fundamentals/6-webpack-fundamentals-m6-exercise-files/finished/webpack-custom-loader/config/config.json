@@ -1,5 +1,0 @@
-{
-    // look ma, awesome comments
-    // JSON normally explodes with comments and breaks require() and JSON.parse()
-    "app_loaded_msg": "This message loaded from config/config.json"
-}
