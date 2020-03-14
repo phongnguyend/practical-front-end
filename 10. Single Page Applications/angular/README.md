@@ -24,8 +24,15 @@ npm install -g @angular/cli
   + [GitHub](https://github.com/OnsenUI/OnsenUI)
   
  ## Style Guide:
- - https://github.com/johnpapa/angular-styleguide
- - https://angular.io/guide/styleguide
+  - Javascript:
+    + https://github.com/airbnb/javascript
+    + https://github.com/standard
+ - Angular:
+   + https://github.com/johnpapa/angular-styleguide
+   + https://angular.io/guide/styleguide
+ - AngularJs:
+   + https://github.com/johnpapa/angular-styleguide
+   + https://github.com/mgechev/angularjs-style-guide
  
  ## Static Code Analysis:
  - https://github.com/mgechev/codelyzer
