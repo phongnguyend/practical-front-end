@@ -26,7 +26,7 @@ npm install -g @angular/cli
  ## Style Guide:
   - Javascript:
     + https://github.com/airbnb/javascript
-    + https://github.com/standard
+    + https://github.com/standard/standard
  - Angular:
    + https://github.com/johnpapa/angular-styleguide
    + https://angular.io/guide/styleguide
