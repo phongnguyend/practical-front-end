@@ -39,3 +39,8 @@ npm install -g @angular/cli
  
  ## Checklist:
   - https://github.com/mgechev/angular-performance-checklist
+  
+ ## Sample Applications:
+ - [DeborahK | Angular: Getting Started](https://github.com/DeborahK/Angular-GettingStarted)
+ - [DeborahK | Angular: Reactive Forms](https://github.com/DeborahK/Angular-ReactiveForms)
+ - [DeborahK | Angular: Routing](https://github.com/DeborahK/Angular-Routing)
