@@ -12,3 +12,19 @@ npm install -g create-react-app
 ### Chrome Extensions:
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [Redux Developer Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+
+### Styling React Components:
+- [CSS Modules](https://github.com/css-modules/css-modules)
+- [Styled Components](https://github.com/styled-components/styled-components)
+- [Radium](https://github.com/FormidableLabs/radium)
+
+### State Managements:
+- [Redux](https://redux.js.org/)
+- [React Redux](https://react-redux.js.org/)
+- [Redux Saga](https://redux-saga.js.org/)
+
+### Boilerplates and Starter Kits
+- [create-react-app](https://github.com/facebook/create-react-app)
+- [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
+- [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+- [react-slingshot](https://github.com/coryhouse/react-slingshot)
