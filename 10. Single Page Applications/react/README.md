@@ -23,7 +23,12 @@ npm install -g create-react-app
 - [React Redux](https://react-redux.js.org/)
 - [Redux Saga](https://redux-saga.js.org/)
 
-### Boilerplates and Starter Kits
+### HTTP Communication:
+- [axios](https://github.com/axios/axios)
+- [window.fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [jQuery](https://api.jquery.com/jQuery.ajax/)
+
+### Boilerplates and Starter Kits:
 - [create-react-app](https://github.com/facebook/create-react-app)
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
 - [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
