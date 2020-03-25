@@ -13,6 +13,13 @@ npm install -g create-react-app
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [Redux Developer Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
+### Routing:
+- [react-router](https://github.com/ReactTraining/react-router)
+  ```
+  npm i react-router
+  npm i react-router-dom
+  ```
+
 ### Styling React Components:
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [Styled Components](https://github.com/styled-components/styled-components)
