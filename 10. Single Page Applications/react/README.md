@@ -27,7 +27,8 @@ npm install -g create-react-app
 
 ### State Managements:
 - [Redux](https://redux.js.org/)
-- [React Redux](https://react-redux.js.org/)
+- [React Redux](https://github.com/reduxjs/react-redux)
+- [Redux Thunk](https://github.com/reduxjs/redux-thunk)
 - [Redux Saga](https://redux-saga.js.org/)
 
 ### HTTP Communication:
