@@ -1,4 +1,4 @@
-[Angular CLI](https://cli.angular.io/)
+## Install [Angular CLI](https://cli.angular.io/)
 ```js
 npm list -g --depth=0
 npm uninstall -g @angular/cli

@@ -1,4 +1,4 @@
-[create-react-app](https://github.com/facebook/create-react-app)
+## Install [create-react-app](https://github.com/facebook/create-react-app)
 ```
 npm list -g --depth=0
 npm uninstall -g create-react-app

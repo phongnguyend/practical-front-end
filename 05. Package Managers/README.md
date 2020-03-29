@@ -16,3 +16,8 @@ npm install [package_name]@[version] -g
 npm install [package_name]@[version] --save
 npm install [package_name]@[version] --save-dev
  ```
+
+### NPM Global Packages:
+```js
+npm list -g --depth=0
+```
