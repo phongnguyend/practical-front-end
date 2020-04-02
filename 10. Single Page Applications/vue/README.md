@@ -14,3 +14,10 @@ npm install -g @vue/cli
 ### HTTP Communication:
 - [axios](https://github.com/axios/axios)
 - [vue-resource](https://github.com/vuejs/vue-resource)
+
+### State Management:
+- [vuex](https://github.com/vuejs/vuex)
+
+### Form Validation:
+- [vuelidate](https://github.com/vuelidate/vuelidate)
+- [vee-validate](https://github.com/logaretm/vee-validate)
