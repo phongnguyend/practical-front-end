@@ -5,6 +5,9 @@ npm uninstall -g @vue/cli
 npm install -g @vue/cli
 ```
 
+### Visual Studio Code Extensions:
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+
 ### Chrome Extensions:
 - [Vue Dev Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
 
