@@ -24,3 +24,7 @@ npm install -g @vue/cli
 ### Form Validation:
 - [vuelidate](https://github.com/vuelidate/vuelidate)
 - [vee-validate](https://github.com/logaretm/vee-validate)
+
+### UI Components:
+- [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)
+- [vue-material](https://github.com/vuematerial/vue-material)
