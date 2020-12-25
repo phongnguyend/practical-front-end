@@ -3,6 +3,7 @@
 npm list -g --depth=0
 npm uninstall -g @vue/cli
 npm install -g @vue/cli
+npm install -g windows-build-tools
 ```
 
 ### Visual Studio Code Extensions:
