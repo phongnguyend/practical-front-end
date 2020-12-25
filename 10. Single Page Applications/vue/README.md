@@ -6,6 +6,8 @@ npm install -g @vue/cli
 npm install -g windows-build-tools
 ```
 
+### Install [Python 2.7](https://www.python.org/ftp/python/2.7.15/python-2.7.15.msi)
+
 ### Visual Studio Code Extensions:
 - [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 
