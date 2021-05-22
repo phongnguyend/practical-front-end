@@ -12,6 +12,7 @@ npm install -g @angular/cli
 - [Angular Essentials](https://marketplace.visualstudio.com/items?itemName=johnpapa.angular-essentials)
 
 ### Chrome Extensions:
+- [Angular DevTools](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh?hl=en&authuser=0)
 - [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en)
 
 ### UI Components:
