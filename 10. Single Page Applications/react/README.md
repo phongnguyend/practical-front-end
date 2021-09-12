@@ -19,6 +19,9 @@ npm install -g create-react-app
   npm i react-router
   npm i react-router-dom
   ```
+### Hooks
+- [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Hooks API Reference](https://reactjs.org/docs/hooks-reference.html)
 
 ### Styling React Components:
 - [CSS Modules](https://github.com/css-modules/css-modules)
