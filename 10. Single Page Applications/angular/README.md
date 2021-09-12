@@ -21,8 +21,15 @@ npm install -g @angular/cli
 - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap)
 - [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI)
-  
- ### Style Guide:
+
+### State Managements:
+- [NgRx](https://ngrx.io/)
+
+### HTTP Communication:
+- [RxJS](https://rxjs.dev/)
+- [HttpClient](https://angular.io/api/common/http/HttpClient)
+
+### Style Guide:
   - Javascript:
     + https://github.com/airbnb/javascript
     + https://github.com/standard/standard
