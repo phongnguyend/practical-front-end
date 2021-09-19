@@ -21,6 +21,7 @@ npm install -g @angular/cli
 - [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap)
 - [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap)
 - [OnsenUI](https://github.com/OnsenUI/OnsenUI)
+- [Angular Ant Design](https://github.com/NG-ZORRO/ng-zorro-antd)
 
 ### State Managements:
 - [NgRx](https://ngrx.io/)
