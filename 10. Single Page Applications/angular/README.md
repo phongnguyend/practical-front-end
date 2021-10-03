@@ -26,6 +26,8 @@ npm install -g @angular/cli
 ### State Managements:
 - [Redux](https://redux.js.org/)
 - [NgRx](https://ngrx.io/)
+  + @ngrx/store
+  + @ngrx/effects
 
 ### HTTP Communication:
 - [RxJS](https://rxjs.dev/)
