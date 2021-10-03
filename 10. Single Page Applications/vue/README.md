@@ -22,6 +22,7 @@ npm install -g windows-build-tools
 - [vue-resource](https://github.com/vuejs/vue-resource)
 
 ### State Management:
+- [Redux](https://redux.js.org/)
 - [vuex](https://github.com/vuejs/vuex)
 
 ### Form Validation:
