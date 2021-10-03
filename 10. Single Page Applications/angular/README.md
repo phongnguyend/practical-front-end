@@ -24,6 +24,7 @@ npm install -g @angular/cli
 - [Angular Ant Design](https://github.com/NG-ZORRO/ng-zorro-antd)
 
 ### State Managements:
+- [Redux](https://redux.js.org/)
 - [NgRx](https://ngrx.io/)
 
 ### HTTP Communication:
