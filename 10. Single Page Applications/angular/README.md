@@ -14,6 +14,7 @@ npm install -g @angular/cli
 ### Chrome Extensions:
 - [Angular DevTools](https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh?hl=en&authuser=0)
 - [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en)
+- [Redux Developer Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
 ### UI Components:
 - [Angular Material](https://github.com/angular/components)
@@ -28,6 +29,7 @@ npm install -g @angular/cli
 - [NgRx](https://ngrx.io/)
   + @ngrx/store
   + @ngrx/effects
+  + @ngrx/store-devtools
 
 ### HTTP Communication:
 - [RxJS](https://rxjs.dev/)
