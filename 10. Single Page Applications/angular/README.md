@@ -56,3 +56,5 @@ npm install -g @angular/cli
  - [DeborahK | Angular: Getting Started](https://github.com/DeborahK/Angular-GettingStarted)
  - [DeborahK | Angular: Reactive Forms](https://github.com/DeborahK/Angular-ReactiveForms)
  - [DeborahK | Angular: Routing](https://github.com/DeborahK/Angular-Routing)
+ - [DeborahK | Angular: RxJS](https://github.com/DeborahK/Angular-RxJS)
+ - [DeborahK | Angular: NgRx GettingStarted](https://github.com/DeborahK/Angular-NgRx-GettingStarted)
