@@ -55,3 +55,7 @@ npm install -g create-react-app
 - [react-starter-kit](https://github.com/kriasoft/react-starter-kit)
 - [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
 - [react-slingshot](https://github.com/coryhouse/react-slingshot)
+
+### Tips
+- [The React Cheatsheet for 2022](https://www.freecodecamp.org/news/the-react-cheatsheet/)
+- [Optimizing performance in a React application - LogRocket Blog](https://blog.logrocket.com/optimizing-performance-react-application/)
