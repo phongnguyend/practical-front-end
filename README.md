@@ -10,3 +10,6 @@
 ### Date Libraries:
 - [moment](https://github.com/moment/moment/)
 - [date-fns](https://github.com/date-fns/date-fns)
+
+### Install Node.js on Ubuntu
+- [How to Install Node.js and npm on Ubuntu 22.04 | Linuxize](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-22-04/)
