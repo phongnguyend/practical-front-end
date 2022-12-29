@@ -12,4 +12,10 @@
 - [date-fns](https://github.com/date-fns/date-fns)
 
 ### Install Node.js on Ubuntu
-- [How to Install Node.js and npm on Ubuntu 22.04 | Linuxize](https://linuxize.com/post/how-to-install-node-js-on-ubuntu-22-04/)
+```shell
+# https://linuxize.com/post/how-to-install-node-js-on-ubuntu-22-04/
+curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt install nodejs
+node -v
+npm -v
+```
