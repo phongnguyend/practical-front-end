@@ -19,3 +19,11 @@ sudo apt install nodejs
 node -v
 npm -v
 ```
+
+### Uninstall Node.js on Ubuntu
+```shell
+# https://bytexd.com/how-to-uninstall-nodejs-in-ubuntu/
+sudo apt-get remove nodejs
+node -v
+npm -v
+```
